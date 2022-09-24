@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="ecenario(sin_derechos).png">
-	<!-- Created with Adobe Animate version 22.0.2.168 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="floor0000" x="2" y="2" width="2740" height="632" frameX="0" frameY="-49" frameWidth="2740" frameHeight="681"/>
-	<SubTexture name="floor0001" x="2" y="656" width="2740" height="663" frameX="0" frameY="-18" frameWidth="2740" frameHeight="681"/>
-	<SubTexture name="floor0002" x="2" y="1339" width="2740" height="632" frameX="0" frameY="-49" frameWidth="2740" frameHeight="681"/>
-	<SubTexture name="floor0003" x="2" y="1993" width="2740" height="681"/>
-</TextureAtlas>
